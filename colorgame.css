@@ -1,0 +1,25 @@
+
+body{
+    background-color: #232323;
+    color: white;
+}
+.square{
+    width: 30%;
+    background: purple;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 8px;
+}
+#container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.nonWinner {
+  opacity: 0.15;
+
+}
+
+button{
+  margin: 0.2rem 0.2rem 0.2rem 0.2rem;
+}
